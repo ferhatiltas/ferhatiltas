@@ -23,10 +23,17 @@
 
 <!-- APP:END -->
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatiltas)
 
 
+</details>
 
-
+![Profile views](https://gpvc.arturio.dev/ferhatiltas)
 
 [instagram]: https://www.instagram.com/limos.ploutos/
 [linkedin]: https://www.linkedin.com/in/ferhat-ilta%C5%9F-8139191a6/
