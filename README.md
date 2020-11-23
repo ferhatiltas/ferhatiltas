@@ -18,11 +18,16 @@
 ### ⚡ Latest Android Apps
 
 <!-- APP:START -->
-
 - [Offers information](https://play.google.com/store/apps/details?id=com.ferhatiltas.bilgisunar&hl=tr&gl=US)
-
 <!-- APP:END -->
 
+
+### ⚡ Recently Acquired Certificates
+
+<!-- Certifications:START -->
+- [Android Mobile Application Development Training | Java | 2020](https://www.udemy.com/certificate/UC-9109a402-4f91-4f21-9f09-af720808a01a/)
+- [Step-by-Step Applied Java Course From Zero to Peak](https://www.udemy.com/certificate/UC-fe0969d0-9dcc-4dd4-beac-554a5b9136f6/)
+<!-- Certifications:END -->
 ---
 
 
