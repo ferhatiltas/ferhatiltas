@@ -25,13 +25,13 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatiltas)
 
 
-</details>
+
 
 ![Profile views](https://gpvc.arturio.dev/ferhatiltas)
 
