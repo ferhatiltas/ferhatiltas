@@ -26,6 +26,7 @@
 [<img align="left" alt=“Netbeans” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />][Github]
 [<img align="left" alt=“VisualStudio” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />][Github]
 [<img align="left" alt=“CSharp” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" />][Github]
+[<img align="left" alt=“SQLServer” width="26px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][Github]
 
 <br />
 
