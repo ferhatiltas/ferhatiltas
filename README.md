@@ -33,6 +33,7 @@
 
 <!-- APP:START -->
 - [Offers information](https://play.google.com/store/apps/details?id=com.ferhatiltas.bilgisunar&hl=tr&gl=US)
+- [Taboo](https://play.google.com/store/apps/details?id=com.ferhatiltas.tabumacerasi&hl=tr&gl=US)
 <!-- APP:END -->
 
 
