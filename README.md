@@ -50,5 +50,5 @@
 [instagram]: https://www.instagram.com/ferhadus/
 [linkedin]: https://www.linkedin.com/in/ferhat-ilta%C5%9F-8139191a6/
 [twitter]: https://twitter.com/ferhadus
-[Github]: https://github.com/ferhatiltas
+[Github]: https://github.com/ferhadus
 
