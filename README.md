@@ -45,7 +45,7 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/ferhadus)
+![Profile views](https://gpvc.arturio.dev/ferhatiltas)
 
 [instagram]: https://www.instagram.com/ferhadus/
 [linkedin]: https://www.linkedin.com/in/ferhat-ilta%C5%9F-8139191a6/
