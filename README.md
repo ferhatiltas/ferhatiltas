@@ -40,12 +40,12 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatiltas)
+  ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhadus)
 
 
 
 
-![Profile views](https://gpvc.arturio.dev/ferhatiltas)
+![Profile views](https://gpvc.arturio.dev/ferhadus)
 
 [instagram]: https://www.instagram.com/ferhadus/
 [linkedin]: https://www.linkedin.com/in/ferhat-ilta%C5%9F-8139191a6/
