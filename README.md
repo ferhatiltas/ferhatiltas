@@ -40,7 +40,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhadus)
+  ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatiltas)
 
 
 
