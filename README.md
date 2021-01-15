@@ -6,4 +6,12 @@
 - 👯 I’m looking to collaborate with other content creators
 
 
+### ⚡ Latest Android Apps
+
+<!-- APP:START -->
+- [Taboo](https://play.google.com/store/apps/details?id=com.ferhatiltas.tabumacerasi&hl=tr&gl=US)
+- [Offers information](https://play.google.com/store/apps/details?id=com.ferhatiltas.bilgisunar&hl=tr&gl=US)
+<!-- APP:END -->
+
+
 
