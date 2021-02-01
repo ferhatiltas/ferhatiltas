@@ -16,5 +16,9 @@
 - [Offers information](https://play.google.com/store/apps/details?id=com.ferhatiltas.bilgisunar&hl=tr&gl=US)
 <!-- APP:END -->
 
+ <summary>:zap: GitHub Stats</summary>
+
+  ![Ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatiltas)
+
 
 
