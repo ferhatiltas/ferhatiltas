@@ -1,13 +1,15 @@
 ### Hi there, I'm Ferhat  👋
 
-## I'm a Student and Mobile Application Developer !!
-
-- 🌱 I’m currently learning Flutter (Dart)
-- 👯 I’m looking to collaborate with other content creators
-
+<p align=center>
+  <a>
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatiltas&text_color=12d1ce&bg_color=0c1014&show_icons=true&layout=compact&theme=gotham">
+  </a>
+  <a >
+  <img height=175 align="center" src="https://stats4github.vercel.app/api/top-langs/?username=ferhatiltas&text_color=12d1ce&bg_color=0c1014&layout=compact&theme=gotham" />
+  </a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/ferhatiltas)
-
 
 ### ⚡ Latest Android Apps
 
@@ -15,8 +17,4 @@
 - [Taboo](https://play.google.com/store/apps/details?id=com.ferhatiltas.tabumacerasi&hl=tr&gl=US)
 - [Offers information](https://play.google.com/store/apps/details?id=com.ferhatiltas.bilgisunar&hl=tr&gl=US)
 <!-- APP:END -->
-
-
-
-
 
