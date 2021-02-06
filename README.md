@@ -1,11 +1,11 @@
-### Hi there, I'm Ferhat  👋
 
+<h1 align="center">  Hi there, I'm Ferhat  👋  </h1>
 <p align=center>
   <a>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatiltas&text_color=12d1ce&bg_color=0c1014&show_icons=true&layout=compact&theme=gotham">
+    <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=ferhatiltas&text_color=12d1ce&bg_color=0c1014&show_icons=true&layout=compact&theme=gotham">
   </a>
   <a >
-  <img height=175 align="center" src="https://stats4github.vercel.app/api/top-langs/?username=ferhatiltas&text_color=12d1ce&bg_color=0c1014&layout=compact&theme=gotham" />
+  <img height=170 align="right" src="https://stats4github.vercel.app/api/top-langs/?username=ferhatiltas&text_color=12d1ce&bg_color=0c1014&layout=compact&theme=gotham" />
   </a>
 </p>
 
